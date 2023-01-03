@@ -30,7 +30,7 @@ let vm = Vue.createApp({
   },
 });
 
-//in console, type in vm.unmount() so that you can see other functions get logged
+//in console, type in vm.unmount() so that you can see other functions get logged out
 vm.mount("#app");
 
 // setTimeout(() => {
